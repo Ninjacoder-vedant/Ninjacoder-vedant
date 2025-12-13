@@ -1,4 +1,4 @@
-## Hi👋, This is Vedant Acharya, 2nd year B.Tech. student at IIT Gandhinagar
+## Hi👋, This is Vedant Acharya, 3rd year B.Tech. student at IIT Gandhinagar
 
 - 🔭 Working on web development projects
 - 🌱 Learning DSA and ML
